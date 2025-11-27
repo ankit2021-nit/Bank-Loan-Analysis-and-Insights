@@ -103,7 +103,7 @@ Key analysis performed in `Bank Loan Analysis.ipynb`:
 ---
 
 ## 📊 Tableau Visualizations  
-🔗 **[View Dashboard](https://public.tableau.com/app/profile/swapnil.mohanty/viz/BankLoanAnalysis_17591253726570/OVERVIEW)**  
+🔗 **[View Dashboard](https://public.tableau.com/shared/DF9D5PSBR?:display_count=n&:origin=viz_share_link)**  
 
 Dashboards provide interactive insights into:  
 - Loan application trends  
